@@ -38,5 +38,5 @@ This project demonstrates the use of semantic HTML, CSS styling, and vanilla Jav
 
 To clone the repository locally:
 ```bash
-git clone https://github.com/justinaenayio-idu/profile-card-stage0.git
+git clone https://github.com/Omot147/Profile-info_git
 
